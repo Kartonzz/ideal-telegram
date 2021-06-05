@@ -1,0 +1,35 @@
+ID,No,Rarity,Dev. Rate,Level,Name,Damage,Accuracy,Evasion,Armor,Crit.Damage,Talent,Skill,Locked
+468514,15,???,800,67,Command Fairy,18.6,0.0,16.8,4.2,18.6,Damage I,1,Locked
+469627,6,???,600,50,Taunt Fairy,7.8,25.2,12.0,3.6,10.8,Assault,10,Locked
+474453,17,???,850,40,Illumination Fairy,0.0,39.6,14.4,3.6,16.8,Damage I,1,Locked
+475710,4,???,600,40,Shield Fairy,8.4,25.2,33.6,0.0,0.0,Evasion II,1,Locked
+481864,3,???,600,40,Armor Fairy,9.6,0.0,0.0,10.8,9.0,Damage II,1,Locked
+482389,2,???,1100,40,Fury Fairy,6.0,0.0,16.8,4.2,16.8,Accuracy II,1,Locked
+482512,9,???,600,40,Airstrike Fairy,12.0,19.2,15.6,4.2,0.0,Evasion II,2,Locked
+484219,25,???,1100,40,Twin Fairies,7.2,24.6,19.2,5.4,0.0,Damage I,10,Locked
+493548,16,???,800,74,Rescue Fairy,16.8,43.8,34.8,0.0,0.0,Critical II,1,Locked
+496069,1,???,800,45,Warrior Fairy,10.8,34.8,17.4,4.8,0.0,Fervor,2,Locked
+537150,11,?,0,1,Parachute Fairy,5.6,0.0,5.2,1.2,6.4,Accuracy II,9,Locked
+537156,10,?,0,1,Reinforcement Fairy,2.0,0.0,14.0,2.0,2.4,Damage I,1,Locked
+537980,10,?,0,1,Reinforcement Fairy,2.0,0.0,14.0,2.0,2.4,Damage I,1,
+540889,7,?,0,1,Sniper Fairy,0.0,17.6,5.6,3.2,7.2,Evasion II,1,
+544714,7,?,0,1,Sniper Fairy,0.0,17.6,5.6,3.2,7.2,Evasion II,1,
+545150,24,?,0,1,Barrier Fairy,0.0,14.8,6.4,4.4,0.0,Sturdy,1,
+546756,7,?,0,1,Sniper Fairy,0.0,17.6,5.6,3.2,7.2,Keen,1,
+547947,24,?,0,1,Barrier Fairy,0.0,14.8,6.4,4.4,0.0,Charge,1,
+553635,24,?,0,1,Barrier Fairy,0.0,14.8,6.4,4.4,0.0,Critical II,1,
+553869,24,?,0,1,Barrier Fairy,0.0,14.8,6.4,4.4,0.0,Accuracy I,1,
+554295,16,?,0,1,Rescue Fairy,7.6,20.0,16.0,0.0,0.0,Fervor,1,
+555138,16,?,0,1,Rescue Fairy,7.6,20.0,16.0,0.0,0.0,Armor I,1,
+555807,7,?,0,1,Sniper Fairy,0.0,17.6,5.6,3.2,7.2,Aim,1,
+556232,27,?,0,1,Auspicious Fairy,3.2,12.0,16.0,0.0,4.0,Accuracy I,1,Locked
+556234,27,?,0,1,Auspicious Fairy,3.2,12.0,16.0,0.0,4.0,Evasion I,1,
+557122,15,?,0,1,Command Fairy,8.0,0.0,7.6,2.0,8.4,Keen,1,
+557123,3,?,0,1,Armor Fairy,4.4,0.0,0.0,5.2,4.4,Armor II,1,
+557997,17,?,0,1,Illumination Fairy,0.0,20.0,7.2,1.6,8.4,Evasion I,1,
+557998,17,?,0,1,Illumination Fairy,0.0,20.0,7.2,1.6,8.4,Sturdy,1,
+558108,7,?,0,1,Sniper Fairy,0.0,17.6,5.6,3.2,7.2,Damage II,1,
+558525,9,?,0,1,Airstrike Fairy,4.8,8.0,6.4,1.6,0.0,Armor I,1,
+558526,3,?,0,1,Armor Fairy,4.4,0.0,0.0,5.2,4.4,Critical I,1,
+482958,8,???,850,84,Artillery Fairy,30.6,0.0,31.2,3.6,0.0,Evasion II,1,Locked
+503055,11,???,745,73,Parachute Fairy,18.0,0.0,16.2,4.2,19.8,Damage II,10,Locked
